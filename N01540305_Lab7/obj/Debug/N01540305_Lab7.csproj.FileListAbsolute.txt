@@ -1,0 +1,8 @@
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab7\bin\Debug\N01540305_Lab7.exe.config
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab7\bin\Debug\N01540305_Lab7.exe
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab7\bin\Debug\N01540305_Lab7.pdb
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab7\obj\Debug\N01540305_Lab7.csproj.AssemblyReference.cache
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab7\obj\Debug\N01540305_Lab7.csproj.SuggestedBindingRedirects.cache
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab7\obj\Debug\N01540305_Lab7.csproj.CoreCompileInputs.cache
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab7\obj\Debug\N01540305_Lab7.exe
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab7\obj\Debug\N01540305_Lab7.pdb

@@ -1,0 +1,11 @@
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab4\bin\Debug\N01540305_Lab4.exe.config
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab4\bin\Debug\N01540305_Lab4.exe
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab4\bin\Debug\N01540305_Lab4.pdb
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab4\obj\Debug\N01540305_Lab4.csproj.AssemblyReference.cache
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab4\obj\Debug\N01540305_Lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab4\obj\Debug\N01540305_Lab4.Form1.resources
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab4\obj\Debug\N01540305_Lab4.Properties.Resources.resources
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab4\obj\Debug\N01540305_Lab4.csproj.GenerateResource.cache
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab4\obj\Debug\N01540305_Lab4.csproj.CoreCompileInputs.cache
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab4\obj\Debug\N01540305_Lab4.exe
+C:\Users\jayku\Humber_semester_2\Data_structures\N01540305_Lab4\obj\Debug\N01540305_Lab4.pdb
